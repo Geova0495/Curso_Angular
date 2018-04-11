@@ -1,0 +1,21 @@
+{
+  "name": "practicaangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mititulo.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geova0495/Curso_Angular.git"
+  },
+  "author": "Geovanny Izurieta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geova0495/Curso_Angular/issues"
+  },
+  "homepage": "https://github.com/Geova0495/Curso_Angular#readme"
+}
